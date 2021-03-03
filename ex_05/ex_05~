@@ -1,0 +1,5 @@
+<?php
+
+function my_swap(&$a,&$b)
+{
+echo 
