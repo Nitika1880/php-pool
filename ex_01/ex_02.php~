@@ -1,6 +1,0 @@
-
-<?php
-$var=42;
-unset($var);
-
-?>
